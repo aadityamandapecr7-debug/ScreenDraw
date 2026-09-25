@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple white pen nib shape, centered, on the solid red background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,74 L34,88 L48,82 L82,48 C85,45 85,40 82,37 L71,26 C68,23 63,23 60,26 Z" />
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M60,26 L82,48 L75,55 L53,33 Z" />
+</vector>
